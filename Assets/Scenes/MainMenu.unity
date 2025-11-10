@@ -2940,7 +2940,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerShoot: {fileID: 8300000, guid: bf0c3fd24fa690245ba88f9f30fa17b0, type: 3}
   asteroidExplosion: {fileID: 8300000, guid: b3a5a09cbc9fefb42ae9f230676c64e9, type: 3}
-  playerDamage: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
+  playerDamage: {fileID: 8300000, guid: a2e4550742749544d9031c094b93f8d1, type: 3}
   playerExplosion: {fileID: 8300000, guid: 0a378cda451607b48bad68aae16a7377, type: 3}
   BgMusicGameplay: {fileID: 8300000, guid: b7c70432d57dddd42ad43e942ed03150, type: 3}
   BgMusicTitleScreen: {fileID: 8300000, guid: b6392455c6188fb44b6ebcbd583ffa34, type: 3}
